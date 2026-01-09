@@ -5,6 +5,33 @@ Aplikasi ini dirancang untuk membantu pengelolaan restoran dengan sistem **multi
 
 ---
 
+## 📸 Screenshot Aplikasi
+
+### Landing Page
+![Landing Page](screenshots/landing-page.png)
+
+---
+
+### Halaman Menu
+![Menu Page](screenshots/menu-page.png)
+
+---
+
+### Dashboard Admin
+![Dashboard Admin](screenshots/dashboard-admin.png)
+
+---
+
+### Kelola Menu (Admin)
+![Admin Menu](screenshots/admin-menu.png)
+
+---
+
+### Halaman Pesanan
+![Pesanan Page](screenshots/pesanan-page.png)
+
+---
+
 ## 📌 Fitur Utama
 
 ### 🔐 Multi Role User
